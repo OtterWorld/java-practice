@@ -1,0 +1,7 @@
+server:
+  port: 8080
+
+service:
+  firstTaskMiddle:
+    testFile: {PATH_TO_FILE: src/main/resources/addressFile.txt}
+
